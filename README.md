@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 
+
+I’m currently working on Trusted Execution Environments: SGX, TDX, AMD-SEV-SNP
 
 <!--
 **lorenzobrescia/lorenzobrescia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
